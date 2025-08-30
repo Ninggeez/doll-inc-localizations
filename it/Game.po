@@ -528,7 +528,7 @@ msgstr "Posiziona la scatola sulla piattaforma a filo pavimento"
 #: /Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]
 msgctxt ",C94280B14B7B4C66F1B93F915138EC5A"
 msgid "Pick up the Doll"
-msgstr "Prendi il muñeco"
+msgstr "Prendi il pupazzo"
 
 #. Key:	D06F76594B031E9B278C26860B6700BF
 #. SourceLocation:	/Game/QualityCheck/levels/qcm_dispatch.qcm_dispatch_C:ExecuteUbergraph_qcm_dispatch [Script Bytecode]

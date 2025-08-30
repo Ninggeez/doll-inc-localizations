@@ -3111,14 +3111,14 @@ msgstr "Hôm nay thử cái mới: hộp."
 #: /Game/QualityCheck/sounds/tutorialPhrases/11.11.Subtitles(1).Subtitles.Text
 msgctxt ",6B034FE34076411EFB2D8395424A0D7B"
 msgid "They’re usually used to carry dolls, but they must be in perfect condition too."
-msgstr "Chúng thường để đựng muñecos, nhưng phải hoàn hảo."
+msgstr "Chúng thường để đựng búp bê, nhưng phải hoàn hảo."
 
 #. Key:	3FC309CA4813E93133D6FCBFE8F4E082
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/11.11.Subtitles(2).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/11.11.Subtitles(2).Subtitles.Text
 msgctxt ",3FC309CA4813E93133D6FCBFE8F4E082"
 msgid "Inspect each case for any inconsistencies, just like you did with the dolls."
-msgstr "Kiểm tra hộp xem có khuyết điểm, như muñecos."
+msgstr "Kiểm tra hộp xem có khuyết điểm, như búp bê."
 
 #. Key:	A2DD45624367EEA334A978A423FD88E8
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/12.12.Subtitles(0).Subtitles.Text
@@ -3132,7 +3132,7 @@ msgstr "Thời gian nâng cấp"
 #: /Game/QualityCheck/sounds/tutorialPhrases/12.12.Subtitles(1).Subtitles.Text
 msgctxt ",A737EFE345A892DAC51F9D933FC21A76"
 msgid "Products will now arrive in batches, first the case, then the doll"
-msgstr "Sản phẩm giờ đến theo lô, hộp trước, muñeco sau"
+msgstr "Sản phẩm giờ đến theo lô, hộp trước, búp bê sau"
 
 #. Key:	65D548384228D336A457558633009068
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/12.12.Subtitles(2).Subtitles.Text
@@ -3167,7 +3167,7 @@ msgstr "Một ngày mới… và nhiệm vụ chính xác hơn"
 #: /Game/QualityCheck/sounds/tutorialPhrases/13.13.Subtitles(1).Subtitles.Text
 msgctxt ",92D0998644BFD2011BD34398767604CD"
 msgid "Today, you must verify that the name on the doll matches the name on the case"
-msgstr "Hôm nay, kiểm tra tên muñeco và tên hộp khớp nhau"
+msgstr "Hôm nay, kiểm tra tên búp bê và tên hộp khớp nhau"
 
 #. Key:	81DBC6294DBED6BC897984BCDE519B55
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/13.13.Subtitles(2).Subtitles.Text
@@ -3195,7 +3195,7 @@ msgstr "Đôi khi hộp dán nhãn sai..."
 #: /Game/QualityCheck/sounds/tutorialPhrases/13.13.Subtitles(5).Subtitles.Text
 msgctxt ",1576ABD4456FD1254E35D88688E3BEBC"
 msgid "Sometimes, well… no one really knows the doll’s name"
-msgstr "Lắm khi không ai biết tên muñeco"
+msgstr "Lắm khi không ai biết tên búp bê"
 
 #. Key:	EEA172264749FF6788650CBA21654FEF
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/14.14.Subtitles(0).Subtitles.Text
@@ -3286,7 +3286,7 @@ msgstr "Hộp này sai tên"
 #: /Game/QualityCheck/sounds/tutorialPhrases/17.17.Subtitles(2).Subtitles.Text
 msgctxt ",9163BA9B4F90FD7CBAC7609F0FAE4E3E"
 msgid "It doesn’t match the doll it’s paired with"
-msgstr "Không khớp muñeco đi cùng"
+msgstr "Không khớp với búp bê đi cùng"
 
 #. Key:	DFB35F5447E2EE1A94C526A328CE9B1E
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/17.17.Subtitles(3).Subtitles.Text
@@ -3461,7 +3461,7 @@ msgstr "Giữ tỉnh táo"
 #: /Game/QualityCheck/sounds/tutorialPhrases/22.22.Subtitles(0).Subtitles.Text
 msgctxt ",77EBC03247917A710147B591AADF3871"
 msgid "We’ve detected some strange phenomena in certain dolls"
-msgstr "Phát hiện hiện tượng lạ ở một số muñecos"
+msgstr "Phát hiện hiện tượng lạ ở một số búp bê"
 
 #. Key:	FDEB333045DDBC556F1E1EA176A69956
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/22.22.Subtitles(1).Subtitles.Text
@@ -3573,7 +3573,7 @@ msgstr "Nhiệm vụ hôm nay sẽ đòi hỏi sự chú ý cao hơn"
 #: /Game/QualityCheck/sounds/tutorialPhrases/27.27.Subtitles(2).Subtitles.Text
 msgctxt ",C34615AC471CC0FFEA2E34BCCCC3A62B"
 msgid "You’re now responsible for inspecting all product types: dolls, robots, and cases"
-msgstr "Bạn giờ chịu trách nhiệm kiểm tra tất cả các loại sản phẩm: muñeco, robot và caja"
+msgstr "Bạn giờ chịu trách nhiệm kiểm tra tất cả các loại sản phẩm: búp bê, robot và hộp"
 
 #. Key:	9477AF254FD241DE292D9A8ED12DA39B
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/27.27.Subtitles(3).Subtitles.Text

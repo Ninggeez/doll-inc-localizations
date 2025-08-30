@@ -3104,21 +3104,21 @@ msgstr "Wróć jutro."
 #: /Game/QualityCheck/sounds/tutorialPhrases/11.11.Subtitles(0).Subtitles.Text
 msgctxt ",102B6ACA443185E4D08776B6277E9DC8"
 msgid "Alright, today we’re testing something new: cases."
-msgstr "Dziś testujemy coś nowego: cajas."
+msgstr "Dziś testujemy coś nowego: pudełka."
 
 #. Key:	6B034FE34076411EFB2D8395424A0D7B
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/11.11.Subtitles(1).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/11.11.Subtitles(1).Subtitles.Text
 msgctxt ",6B034FE34076411EFB2D8395424A0D7B"
 msgid "They’re usually used to carry dolls, but they must be in perfect condition too."
-msgstr "Służą zwykle do przenoszenia muñecos, ale muszą być w idealnym stanie."
+msgstr "Służą zwykle do przenoszenia lalek, ale muszą być w idealnym stanie."
 
 #. Key:	3FC309CA4813E93133D6FCBFE8F4E082
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/11.11.Subtitles(2).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/11.11.Subtitles(2).Subtitles.Text
 msgctxt ",3FC309CA4813E93133D6FCBFE8F4E082"
 msgid "Inspect each case for any inconsistencies, just like you did with the dolls."
-msgstr "Sprawdź każdą caja pod kątem niezgodności, tak jak muñecos."
+msgstr "Sprawdź każde pudełko pod kątem niezgodności, tak jak lalki."
 
 #. Key:	A2DD45624367EEA334A978A423FD88E8
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/12.12.Subtitles(0).Subtitles.Text
@@ -3132,7 +3132,7 @@ msgstr "Czas podnieść poprzeczkę."
 #: /Game/QualityCheck/sounds/tutorialPhrases/12.12.Subtitles(1).Subtitles.Text
 msgctxt ",A737EFE345A892DAC51F9D933FC21A76"
 msgid "Products will now arrive in batches, first the case, then the doll"
-msgstr "Produkty będą przychodzić partiami: najpierw caja, potem muñeco."
+msgstr "Produkty będą przychodzić partiami: najpierw pudełko, potem lalka."
 
 #. Key:	65D548384228D336A457558633009068
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/12.12.Subtitles(2).Subtitles.Text
@@ -3167,7 +3167,7 @@ msgstr "Nowy dzień… i precyzyjniejsze zadanie."
 #: /Game/QualityCheck/sounds/tutorialPhrases/13.13.Subtitles(1).Subtitles.Text
 msgctxt ",92D0998644BFD2011BD34398767604CD"
 msgid "Today, you must verify that the name on the doll matches the name on the case"
-msgstr "Dziś musisz sprawdzić, czy nazwa na muñeco pasuje do nazwy na caja."
+msgstr "Dziś musisz sprawdzić, czy nazwa na lalce pasuje do nazwy na pudełku."
 
 #. Key:	81DBC6294DBED6BC897984BCDE519B55
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/13.13.Subtitles(2).Subtitles.Text
@@ -3188,21 +3188,21 @@ msgstr "I nie zapomnij przypisać właściwego powodu naprawy, jeśli coś jest 
 #: /Game/QualityCheck/sounds/tutorialPhrases/13.13.Subtitles(4).Subtitles.Text
 msgctxt ",EEBD46F54B4432DB6B1493B8DAECEC6D"
 msgid "Sometimes the cases come mislabeled…"
-msgstr "Czasem cajas są źle oznaczone..."
+msgstr "Czasem pudełka są źle oznaczone..."
 
 #. Key:	1576ABD4456FD1254E35D88688E3BEBC
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/13.13.Subtitles(5).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/13.13.Subtitles(5).Subtitles.Text
 msgctxt ",1576ABD4456FD1254E35D88688E3BEBC"
 msgid "Sometimes, well… no one really knows the doll’s name"
-msgstr "Czasem… nikt nie wie, jak nazywa się muñeco."
+msgstr "Czasem… nikt nie wie, jak nazywa się lalka."
 
 #. Key:	EEA172264749FF6788650CBA21654FEF
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/14.14.Subtitles(0).Subtitles.Text
 #: /Game/QualityCheck/sounds/tutorialPhrases/14.14.Subtitles(0).Subtitles.Text
 msgctxt ",EEA172264749FF6788650CBA21654FEF"
 msgid "Effective immediately, you are now required to check the case's glass panel"
-msgstr "Ze skutkiem natychmiastowym musisz sprawdzać szklane panele cajas."
+msgstr "Ze skutkiem natychmiastowym musisz sprawdzać szklane panele pudełek."
 
 #. Key:	58E588A142F919AC29F6C0ACB5AE5F16
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/14.14.Subtitles(1).Subtitles.Text
@@ -3286,7 +3286,7 @@ msgstr "Ta caja ma złą nazwę."
 #: /Game/QualityCheck/sounds/tutorialPhrases/17.17.Subtitles(2).Subtitles.Text
 msgctxt ",9163BA9B4F90FD7CBAC7609F0FAE4E3E"
 msgid "It doesn’t match the doll it’s paired with"
-msgstr "Nie pasuje do muñeco, z którym jest sparowana."
+msgstr "Nie pasuje do lalki, z którą jest sparowana."
 
 #. Key:	DFB35F5447E2EE1A94C526A328CE9B1E
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/17.17.Subtitles(3).Subtitles.Text
@@ -3349,7 +3349,7 @@ msgstr "oznacz je i wyślij do naprawy."
 #: /Game/QualityCheck/sounds/tutorialPhrases/19.19.Subtitles(0).Subtitles.Text
 msgctxt ",E6AE774F4B7175EA963A6CA302649A2F"
 msgid "Today’s task: box doors"
-msgstr "Dzisiejsze zadanie: drzwi od cajas."
+msgstr "Dzisiejsze zadanie: drzwi od pudełek."
 
 #. Key:	F9250EFE4CF3D5D6C90597824853A16C
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/19.19.Subtitles(1).Subtitles.Text
@@ -3398,7 +3398,7 @@ msgstr "Uważaj."
 #: /Game/QualityCheck/sounds/tutorialPhrases/20.20.Subtitles(1).Subtitles.Text
 msgctxt ",68F2ED3B4B38AE0C360098AF7E0862CB"
 msgid "Lately, some workers have been leaving random junk inside the boxes, scissors, tape, wrappers... who knows"
-msgstr "Ostatnio niektórzy zostawiają przypadkowe graty w cajas: nożyczki, taśmę..."
+msgstr "Ostatnio niektórzy zostawiają przypadkowe graty w pudełkach: nożyczki, taśmę..."
 
 #. Key:	9CAB3964408003FD87F19AA5CE8B4DD9
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/20.20.Subtitles(2).Subtitles.Text
@@ -3461,7 +3461,7 @@ msgstr "Bądź czujny."
 #: /Game/QualityCheck/sounds/tutorialPhrases/22.22.Subtitles(0).Subtitles.Text
 msgctxt ",77EBC03247917A710147B591AADF3871"
 msgid "We’ve detected some strange phenomena in certain dolls"
-msgstr "Wykryliśmy dziwne zjawiska w niektórych muñecos."
+msgstr "Wykryliśmy dziwne zjawiska w niektórych lalkach."
 
 #. Key:	FDEB333045DDBC556F1E1EA176A69956
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/22.22.Subtitles(1).Subtitles.Text
@@ -3496,7 +3496,7 @@ msgstr "Wprowadziliśmy nową linię produktów: Roboty."
 #: /Game/QualityCheck/sounds/tutorialPhrases/23.23.Subtitles(1).Subtitles.Text
 msgctxt ",A4E582B44C9B117DE48156929FC0D596"
 msgid "These units are in high demand and come in various appearances depending on the map, just like the cases."
-msgstr "Te jednostki są bardzo pożądane i mają różne wyglądy, zależnie od mapy, podobnie jak cajas."
+msgstr "Te jednostki są bardzo pożądane i mają różne wyglądy, zależnie od mapy, podobnie jak pudełka."
 
 #. Key:	C59DDCCA48F86CF4D585DAA2A977CE7C
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/23.23.Subtitles(2).Subtitles.Text
@@ -3573,7 +3573,7 @@ msgstr "Dzisiejsze zadanie wymaga dodatkowej uwagi."
 #: /Game/QualityCheck/sounds/tutorialPhrases/27.27.Subtitles(2).Subtitles.Text
 msgctxt ",C34615AC471CC0FFEA2E34BCCCC3A62B"
 msgid "You’re now responsible for inspecting all product types: dolls, robots, and cases"
-msgstr "Jesteś teraz odpowiedzialny za inspekcję wszystkich produktów: muñecos, robotów i cajas."
+msgstr "Jesteś teraz odpowiedzialny za inspekcję wszystkich produktów: lalek, robotów i pudełek."
 
 #. Key:	9477AF254FD241DE292D9A8ED12DA39B
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/27.27.Subtitles(3).Subtitles.Text
@@ -3839,7 +3839,7 @@ msgstr "Dziś będzie… nużąco."
 #: /Game/QualityCheck/sounds/tutorialPhrases/34.34.Subtitles(1).Subtitles.Text
 msgctxt ",FD5CCD36463CEA8C928DB0A22C8826A3"
 msgid "We’ve received multiple requests for separate items, dolls and boxes individually."
-msgstr "Otrzymaliśmy wiele próśb o oddzielne items: muñecos i cajas."
+msgstr "Otrzymaliśmy wiele próśb o oddzielne przedmioty: lalki i pudełka."
 
 #. Key:	58432AFC472CC0DD356393964BE1DC9F
 #. SourceLocation:	/Game/QualityCheck/sounds/tutorialPhrases/34.34.Subtitles(2).Subtitles.Text
@@ -5701,7 +5701,7 @@ msgstr "Cajas"
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_1.Text
 msgctxt ",762DB3744B95E2C3F42EE3BD18D9B4CC"
 msgid "Dolls"
-msgstr "Muñecos"
+msgstr "Lalki"
 
 #. Key:	D82555844579EE43AD026FB561E92FE4
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_100.Text
@@ -5757,7 +5757,7 @@ msgstr "Zwroty:\r\n\r\nKlienci czasem zwracają pedidos z powodu wad lub braku z
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_11.Text
 msgctxt ",2C55BB074E700A37E909E598A7CC3832"
 msgid "The doll's inconsistency is based on certain flaws, such as cracks, dirt, or visual defects, usually in the form of stains. Missing parts like legs or similar are not considered."
-msgstr "Niespójność muñeca polega na pewnych wadach, jak pęknięcia, zabrudzenia, plamy. Brakujące części, jak nogi, nie są uznawane."
+msgstr "Niespójność lalki polega na pewnych wadach, jak pęknięcia, zabrudzenia, plamy. Brakujące części, jak nogi, nie są uznawane."
 
 #. Key:	655E92FF4AC1FF3A9F6E129ED67B0D18
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_111.Text

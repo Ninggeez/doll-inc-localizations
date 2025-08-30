@@ -5701,7 +5701,7 @@ msgstr "Cazuri"
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_1.Text
 msgctxt ",762DB3744B95E2C3F42EE3BD18D9B4CC"
 msgid "Dolls"
-msgstr "Muñecos"
+msgstr "Păpuși"
 
 #. Key:	D82555844579EE43AD026FB561E92FE4
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_100.Text
@@ -5757,7 +5757,7 @@ msgstr "Returnări:\\r\\n\\r\\nUnii clienți returnează comenzile, din cauza de
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_11.Text
 msgctxt ",2C55BB074E700A37E909E598A7CC3832"
 msgid "The doll's inconsistency is based on certain flaws, such as cracks, dirt, or visual defects, usually in the form of stains. Missing parts like legs or similar are not considered."
-msgstr "Inconsistența muñecos se bazează pe defecte precum crăpături, murdărie sau pete vizuale. Lipsa componentelor, precum picioarele, nu se consideră."
+msgstr "Inconsistența păpușilor se bazează pe defecte precum crăpături, murdărie sau pete vizuale. Lipsa componentelor, precum picioarele, nu se consideră."
 
 #. Key:	655E92FF4AC1FF3A9F6E129ED67B0D18
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_111.Text
@@ -5792,7 +5792,7 @@ msgstr "Codurile de bare identifică fiecare produs. Verifică cifrele și potri
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_17.Text
 msgctxt ",B6E1352D4A38AE740E086186DFBCFC34"
 msgid "Incorrect names do not match any existing doll. For example, you might get the name 'Rebecca', but no such doll exists, therefore, the name would be considered incorrect."
-msgstr "Numele incorecte nu corespund niciunui muñecos existent. De exemplu, 'Rebecca' fără muñecos nu există."
+msgstr "Numele incorecte nu corespund niciunei păpuși existente. De exemplu, 'Rebecca' fără păpușă nu există."
 
 #. Key:	34DE1BE04320BA260C3166BB34D20447
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_18.Text
@@ -5827,7 +5827,7 @@ msgstr "Comenzi"
 #: /Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_33.Text
 msgctxt ",BEC9B9DD4977AEF7B664F4B372665ABC"
 msgid "Occasionally, dolls emit vibrations or display unusual effects and must be returned. These are generally things we cannot explain."
-msgstr "Ocazional muñecos vibrează sau afișează efecte neobișnuite și trebuie returnate. Sunt lucruri inexplicabile."
+msgstr "Ocazional păpușile vibrează sau afișează efecte neobișnuite și trebuie returnate. Sunt lucruri inexplicabile."
 
 #. Key:	CB3040CB4004F4853746588D57C8DFD7
 #. SourceLocation:	/Game/QualityCheck/UI/tablet.tablet_C:WidgetTree.TextBlock_35.Text
