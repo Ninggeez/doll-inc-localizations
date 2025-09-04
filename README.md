@@ -1,4 +1,4 @@
-# doll-impostor-localizations
+# doll-inc-localizations
 
 Use this tool for translate
 https://localization-po.headarrow.com/
